@@ -1,0 +1,39 @@
+﻿Year,Model,Make,Type,Type Vehicle,Class,Engine Size,Cylinders,Transmission,Fuel Type,City L 100km,Hwy L 100km,Comb L 100km,cost_per_year,CO2 Rating,Smog Rating
+2023,Integra,Acura,cars,Fuel,L,1.5,4,AV7,Z,7.9,6.3,7.2,2088,6,7
+2023,Giulia,Alfa Romeo,cars,Fuel,M,2,4,A8,Z,10,7.2,8.7,2523,5,5
+2023,DB11 V8,Aston Martin,cars,Fuel,I,4,8,A8,Z,13,9.8,11.5,3335,4,5
+2023,A3 40 TFSI quattro,Audi,cars,Fuel,S,2,4,AM7,X,8.7,6.8,7.9,1975,6,7
+2023,Continental GT,Bentley,cars,Fuel,S,4,8,AM8,Z,15.3,10.4,13.1,3799,4,3
+2023,230i xDrive Coupe,BMW,cars,Fuel,S,2,4,AS8,Z,9.6,6.9,8.4,2436,6,3
+2023,Chiron,Bugatti,cars,Fuel,T,8,16,AM7,Z,26.8,16.6,22.2,6438,1,1
+2023,CT4,Cadillac,cars,Fuel,C,2,4,AS8,Z,10.2,7,8.8,2552,5,7
+2023,Camaro,Chevrolet,cars,Fuel,S,2,4,AS8,Z,10.9,7.8,9.5,2755,5,5
+2023,300 3.5,Chrysler,cars,Fuel,L,3.6,6,A8,X,12.4,7.8,10.3,2575,5,5
+2023,Challenger,Dodge,cars,Fuel,M,3.6,6,A8,X,12.4,7.8,10.3,2575,5,5
+2023,Mustang,Ford,cars,Fuel,S,2.3,4,A10,X,11,7.4,9.3,2325,5,5
+2023,G70 AWD,Genesis,cars,Fuel,C,2,4,AS8,Z,11.4,8.2,10,2900,5,3
+2023,Accord,Honda,cars,Fuel,L,1.5,4,AV,X,8.1,6.4,7.3,1825,6,7
+2023,Elantra,Hyundai,cars,Fuel,M,1.6,4,AM7,X,8.4,6.6,7.6,1900,6,5
+2023,Q50 AWD,Infiniti,cars,Fuel,M,3,6,AS7,Z,12.5,8.7,10.8,3132,5,3
+2023,F-TYPE P450 Convertible,Jaguar,cars,Fuel,T,5,8,AS8,Z,14.1,9.7,12.1,3509,4,3
+2023,Forte,Kia,cars,Fuel,M,1.6,4,AM7,X,8.7,6.6,7.8,1950,6,5
+2023,Huracán EVO Coupe,Lamborghini,cars,Fuel,T,5.2,10,AM7,Z,18,13.1,15.8,4582,2,1
+2023,ES 250 AWD,Lexus,cars,Fuel,M,2.5,4,AS8,X,9.5,7,8.4,2100,6,6
+2023,Ghibli GT,Maserati,cars,Fuel,M,3,6,A8,Z,13.4,9.4,11.6,3364,4,3
+2023,Mazda3 4-Door,Mazda,cars,Fuel,C,2,4,AS6,X,8.4,6.6,7.6,1900,6,7
+2023,AMG C 43 4MATIC Cabriolet,Mercedes-Benz,cars,Fuel,S,3,6,A9,Z,13.3,9.2,11.4,3306,4,5
+2023,Cooper 3 Door,MINI,cars,Fuel,S,1.5,3,AM7,Z,8.2,6.2,7.3,2117,6,7
+2023,Altima AWD,Nissan,cars,Fuel,M,2.5,4,AV,X,9.1,6.5,7.9,1975,6,7
+2023,Cullinan,Rolls-Royce,cars,Fuel,WM,6.7,12,AS8,Z,20.1,12.4,16.6,4814,2,3
+2023,BRZ,Subaru,cars,Fuel,I,2.4,4,AS6,Z,11,7.7,9.5,2755,5,3
+2023,Camry SE,Toyota,cars,Fuel,M,2.5,4,AS8,X,8.5,6.1,7.4,1850,6,7
+2023,Golf GTI,Volkswagen,cars,Fuel,C,2,4,AM7,X,9.7,7,8.5,2125,6,5
+2023,S60 B5,Volvo,cars,Fuel,C,2,4,AS8,Z,9,6.7,8,2320,6,5
+2023,Sierra,GMC,pickup trucks,Fuel,PL,2.7,4,A8,X,12.7,11.2,12,3000,4,7
+2023,Gladiator 4X4 EcoDiesel,Jeep,pickup trucks,Fuel,PL,3,6,A8,D,10.8,8.5,9.8,2548,4,1
+2023,1500 eTorque,Ram,pickup trucks,Fuel,PL,3.6,6,A8,X,11.9,9.4,10.8,2700,5,7
+2023,Enclave AWD,Buick,sport utility,Fuel,UL,3.6,6,A9,X,13.6,9.6,11.8,2950,4,6
+2023,500X AWD,FIAT,sport utility,Fuel,US,1.3,4,A9,X,10,7.9,9.1,2275,5,6
+2023,Defender 90 P300,Land Rover,sport utility,Fuel,UL,2,4,AS8,Z,13.2,11.3,12.3,3567,4,7
+2023,Aviator AWD,Lincoln,sport utility,Fuel,UL,3,6,AS10,X,13.7,9.7,11.9,2975,4,5
+2023,Eclipse Cross 4WD,Mitsubishi,sport utility,Fuel,US,1.5,4,AV8,X,9.6,8.9,9.3,2325,5,5
